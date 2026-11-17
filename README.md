@@ -2,7 +2,11 @@
 Steam Shader Cache Killer
 
 
-``bash (curl -fsSL https://raw.githubusercontent.com/Publicspac3/ShaderCacheKiller/main/ShaderCacheKiller.sh)``
+``
+curl -fsSL https://raw.githubusercontent.com/Publicspac3/ShaderCacheKiller/main/ShaderCacheKiller.sh | bash
+``
 
-If you don't want to delete your and test
-``bash (curl -fsSL https://raw.githubusercontent.com/Publicspac3/ShaderCacheKiller/main/ShaderCacheKiller.sh) dry-run``
+If you don't want to delete your programs and test it
+``
+curl -fsSL https://raw.githubusercontent.com/Publicspac3/ShaderCacheKiller/main/ShaderCacheKiller.sh dry-run | bash
+``
