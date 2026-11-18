@@ -5,8 +5,8 @@
 # Fixed and safety-improved version
 #
 # Usage:
-#   ./SDCacheKiller.sh
-#   ./SDCacheKiller.sh dry-run
+#   ./ShaderCacheKiller.sh
+#   ./ShaderCacheKiller.sh dry-run
 #
 # Requires: bash, zenity, du, grep, sed
 #
